@@ -1,0 +1,6 @@
+test=''Hello, Python!''
+print(test)
+print(test[0]) 
+print(test[5]) 
+print(test[6])
+print(test[13])
